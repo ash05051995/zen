@@ -12,3 +12,9 @@ Zen is a basic particle loader which can used for almost anything, I decided to 
 In the login.cs form fill in the following information below:
 
 ```public static api KeyAuthApp = new api(name: "", ownerid: "", secret: "", version: "1.0");```
+
+# Further Updates
+
+No (Unmaintained C# Example Loader) Make sure you see https://github.com/KeyAuth/KeyAuth-CSHARP-Example/blob/main/Console/Program.cs for a more updated example 
+
+Make sure to use Keyauth to your advantage by including functions such as KeyAuthApp.checkblack, KeyAuthApp.ban ect...
