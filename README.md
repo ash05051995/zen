@@ -12,3 +12,9 @@ Zen is a basic particle loader which can used for almost anything, I decided to 
 In the login.cs form fill in the following information below:
 
 ```public static api KeyAuthApp = new api(name: "", ownerid: "", secret: "", version: "1.0");```
+
+```
+git status
+git add
+git commit
+```
