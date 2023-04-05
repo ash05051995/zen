@@ -5,7 +5,7 @@ Zen is a basic particle loader which can used for almost anything, I decided to 
 # Missing Dll Files
 
 * Error regarding the Guna UI2 dll missing, you can re-download using the package manager
-* Erro regarding the particles.cs dll file missing, this can be downloaded from the site here https://uixdesign.xyz/products/particles-cs.4
+* Erro regarding the particles.cs dll file missing, this can be downloaded from the site here https://uixdesign.xyz/threads/particles-cs.19/
 
 # Adding Key
 
